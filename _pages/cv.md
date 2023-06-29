@@ -11,49 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Agronomy (Division of Biostatistics), National Taiwan University, 2017-2019
+  * Advisor: [Chun-Huo Chiu](https://scholars.lib.ntu.edu.tw/cris/rp/rp08410/information.html)
+  * Thesis: Richness Estimation with the Presence of Species Identity Error
+* B.S. in Quantitative Finance, National Tsing Hua University, 2013-2017
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb 2022 - Now: AI Software Engineer @QNAP
+  * Develop image classification (about 70% F1-Score for 420 image classes) and OCR model to assist customers in quickly searching for their photos.
+  * Deploy models on edge devices such as Tensor Processing Unit (TPU) and Neural Processing Unit (NPU) to ensure customer data security.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* May 2020 - Feb 2022: AI Algorithm Engineer @TutorABC
+  * Establish a customer churn detection model with 81% accuracy (random forest model) to lower the refund rate by analyzing the refund reasons (SHAP Value) individually and use LINE messages for customer care.
+  * Build a customer purchase detection model with 78% accuracy (random forest model) to increase the purchase rate by analyzing the most purchase reason (SHAP Value) individually for sales to design strategies.
+
+Awards
+======
+* Excellent Teaching Assistant Award from National Taiwan University (Top 1% of all teaching assistants)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Statistics
+* Programming
+  * Python, R, C++, Golang
+  * Docker, Linux
+* Machine Learning / Deep Learning
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* PyCon 2022 & 2023 Conference Staff
