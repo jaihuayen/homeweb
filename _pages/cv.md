@@ -22,6 +22,7 @@ Work experience
 * Feb 2022 - Now: AI Software Engineer @QNAP
   * Develop image classification (about 70% F1-Score for 420 image classes) and OCR model to assist customers in quickly searching for their photos.
   * Deploy models on edge devices such as Tensor Processing Unit (TPU) and Neural Processing Unit (NPU) to ensure customer data security.
+  * Implement zero-shot machine learning models (Multi-lingual CLIP) for adding semantic search feature in our search engine.
 
 * May 2020 - Feb 2022: AI Algorithm Engineer @TutorABC
   * Establish a customer churn detection model with 81% accuracy (random forest model) to lower the refund rate by analyzing the refund reasons (SHAP Value) individually and use LINE messages for customer care.
@@ -35,7 +36,7 @@ Research Interests
 ======
 * Ecological Statistics
 * Biodiversity Estimation
-* Species Identity Error Estimation
+* Identity Error Richness Estimation
 * Statistical Machine Learning
 * Survival Analysis
 
@@ -43,7 +44,7 @@ Skills
 ======
 * Statistics
 * Programming
-  * Python, R, C++, Golang
+  * Python, R, C++, Golang, SQL
   * Docker, Linux
 * Machine Learning / Deep Learning
   
