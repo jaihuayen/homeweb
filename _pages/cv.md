@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * Feb 2022 - Now: AI Software Engineer @QNAP
-  * Develop image classification (about 70% F1-Score for 420 image classes) and OCR model to assist customers in quickly searching for their photos.
+  * Develop image classification (about 70% F1-Score for 250 image classes) and OCR model to assist customers in quickly searching for their photos.
   * Deploy models on edge devices such as Tensor Processing Unit (TPU) and Neural Processing Unit (NPU) to ensure customer data security.
   * Implement zero-shot machine learning models (Multi-lingual CLIP) for adding semantic search feature in our search engine.
 
