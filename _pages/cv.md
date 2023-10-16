@@ -20,13 +20,14 @@ Education
 Work experience
 ======
 * Feb 2022 - Now: AI Software Engineer @QNAP
-  * Develop image classification (about 70% F1-Score for 250 image classes) and OCR model to assist customers in quickly searching for their photos.
-  * Deploy models on edge devices such as Tensor Processing Unit (TPU) and Neural Processing Unit (NPU) to ensure customer data security.
-  * Implement zero-shot machine learning models (Multi-lingual CLIP) for adding semantic search feature in our search engine.
+  * Created an 81% accurate customer churn detection model using random forest to decrease refund rates through individual analysis of refund reasons using SHAP value.
+  * Developed a customer purchase detection model utilizing random forest with a 78% accuracy rate to boost purchase rates by individually analyzing the predominant reasons for purchases using SHAP value in order to formulate targeted sales strategies.
+  * Accelerated the extraction, transformation, and loading (ETL) processes by 50% and consolidated these processes through the implementation of Airflow for Machine Learning Operations (MLOps).
+  * Provided guidance to a junior engineer in Python and SQL programming, project structuring, and Machine Learning Operations (MLOps).
 
 * May 2020 - Feb 2022: AI Algorithm Engineer @TutorABC
-  * Establish a customer churn detection model with 81% accuracy (random forest model) to lower the refund rate by analyzing the refund reasons (SHAP Value) individually and use LINE messages for customer care.
-  * Build a customer purchase detection model with 78% accuracy (random forest model) to increase the purchase rate by analyzing the most purchase reason (SHAP Value) individually for sales to design strategies.
+  * Derive a non-parametric species richness estimator that reduces underestimation by approximately 15% in observed species richness and addresses a 10% overestimation in scenarios with very low corrected denominators, all while mitigating identity errors often encountered in species surveys.
+  * Conduct data cleaning on weed and plant cover species surveys conducted in Soft Bridge County, Taiwan, and Grand St. Bernard Pass, Switzerland.
 
 Awards
 ======
@@ -35,8 +36,7 @@ Awards
 Research Interests
 ======
 * Ecological Statistics
-* Biodiversity Estimation
-* Identity Error Richness Estimation
+* Noisy-labeled Statistical Modeling
 * Statistical Machine Learning
 * Survival Analysis
 
@@ -44,7 +44,7 @@ Skills
 ======
 * Statistics
 * Programming
-  * Python, R, C++, Golang, SQL
+  * Python, R, Golang, SQL
   * Docker, Linux
 * Machine Learning / Deep Learning
   
