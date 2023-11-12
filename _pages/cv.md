@@ -46,7 +46,7 @@ Skills
 ======
 * Statistics
 * Programming
-  * Python, R, Golang, SQL, Matlab, C, C++
+  * Python, R, Golang, SQL, Matlab, SAS, C, C++
   * Docker, Linux
 * Machine Learning / Deep Learning
   
