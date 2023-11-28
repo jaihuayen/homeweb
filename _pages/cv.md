@@ -31,7 +31,7 @@ Research Interests
 * Noisy-labeled Statistical Modeling
 * Computer Vision
 * Natural Language Processing
-* Survival Analysis
+* Machine Learning
 
 Skills
 ======
