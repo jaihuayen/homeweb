@@ -37,8 +37,8 @@ Skills
 ======
 * Statistics
 * Programming
-  * Python, R, Golang, SQL, Matlab, SAS, C, C++
-  * Docker, Linux
+  * Python, R, Golang, SQL, Matlab, SAS, C++
+  * Docker, Linux, Git
 * Machine Learning / Deep Learning
   
 Volunteer Experience
