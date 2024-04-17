@@ -18,7 +18,8 @@ Education
 
 Work experience
 ======
-* Feb 2022 - Now: AI Software Engineer @QNAP
+* Apr 2024 - Now: Senior AI Software Engineer @QNAP
+* Feb 2022 - Apr 2024: AI Software Engineer @QNAP
 * May 2020 - Feb 2022: AI Algorithm Engineer @TutorABC
 
 Awards
