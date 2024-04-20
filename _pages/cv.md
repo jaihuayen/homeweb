@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Biostatistics, University at Buffalo, 2024-Now
 * M.S. in Agronomy (Division of Biometry), National Taiwan University, 2017-2019
   * Advisor: [Chun-Huo Chiu](https://scholars.lib.ntu.edu.tw/cris/rp/rp08410/information.html)
   * Thesis: Richness Estimation with the Presence of Species Identity Error
